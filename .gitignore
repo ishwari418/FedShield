@@ -1,0 +1,14 @@
+.venv/
+node_modules/
+frontend/dist/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+data/clients/
+data/global_test/
+data/dataset_manifest.json
+storage/*.json
+storage/*.csv
+storage/*.pdf
+models/
+.env
